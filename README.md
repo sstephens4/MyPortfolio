@@ -1,2 +1,3 @@
-# MyPortfolio
-My Official Portfolio 
+# My Portfolio
+
+Serena Stephens Official Portfolio!
